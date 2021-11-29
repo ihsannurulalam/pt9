@@ -7,7 +7,7 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
 ### Gambaran hasil kerja
 1. Gambar dibawah ini adalah perintah atau codingan untuk tugas diatas 
 ![gambar1](screenshot/Screenshot1.png)
-2. Kil F5 atau Run,maka hasilnya akan seperti pada gambar berikut
+2. Klik F5 atau Run,maka hasilnya akan seperti pada gambar berikut
 ![gambar2](screenshot/Screenshot2.png)
 3. Masukan NIM,Nama dan nilai yang ingin anda list,jika ingin menambahkan ketik perintah y(ya) jika data sudah lengkap klik t(tidak).maka hasilnya akan seperti pada gambar berikut
 ![gambar3](screenshot/Screenshot3.png)
